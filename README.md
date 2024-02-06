@@ -7,3 +7,15 @@
 - The idea of this basic project was to view, create, update and delete  some hardcoded users.
 
 - There is also a logger middleware function that logs the time and type of request to the webpages in the /public folder.
+
+## Quick Start
+
+* Install Dependencies
+```
+npm install
+```
+
+* Serve on localhost:5000
+```
+npm run dev
+```
